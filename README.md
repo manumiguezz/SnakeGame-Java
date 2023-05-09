@@ -1,5 +1,5 @@
 # SnakeGame-Java
-A basic Java programm to run the popular and classic game snake!
+A basic Java programm to run the popular and classic game snake
 
 
 How to play the game?
