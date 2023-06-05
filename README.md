@@ -1,4 +1,4 @@
-# SnakeGame-Java
+# SnakeGame_Java
 A basic Java programm to run the popular and classic game snake
 
 
